@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "name": "Иван",
+      "surname": "123",
+      "patronymic": "123",
+      "department": "IT отдел",
+      "isUnderEditting": false,
+      "id": 1
+    },
+    {
+      "name": "Пётр",
+      "surname": "Петров",
+      "patronymic": "Петрович",
+      "department": "Отдел доставки",
+      "isUnderEditting": false,
+      "id": 3
+    }
+  ]
+}
